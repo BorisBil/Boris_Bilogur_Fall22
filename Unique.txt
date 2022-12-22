@@ -1,0 +1,15 @@
+# Boris_Bilogur_Fall22
+
+THERE WAS A CORRUPTED FILE IN OLD REPO, THIS IS THE NEW AND ACCURATE REPO
+
+In this game, you are chased by enemies while attempting to collect as many hearts as you can.
+Collect the hearts while dodging the Windows logo and the later-spawning flower. 
+
+Unique features:
+  Both enemies chase your character based on vector calculations
+  First "easier" enemy chases you from the start, "harder" faster enemy spawns when 10 hearts are collected
+  Player character has hitpoint system
+  "Star" item spawns once for every 7th heart collected
+  Collecting the "star" grants you an additional hitpoint
+  If enemy hits player character while player character has more than 1 hitpoint, the game continues and the enemy is respawned away from the player
+  If enemy hits player character while player character only has 1 hitpoint, the game ends
