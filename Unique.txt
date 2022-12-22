@@ -13,3 +13,9 @@ Unique features:
   Collecting the "star" grants you an additional hitpoint
   If enemy hits player character while player character has more than 1 hitpoint, the game continues and the enemy is respawned away from the player
   If enemy hits player character while player character only has 1 hitpoint, the game ends
+
+Controls are:
+  Arrow key left to move left
+  Arrow key up to move up
+  Arrow key right to move right
+  Arrow key down to move down
