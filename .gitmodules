@@ -1,0 +1,6 @@
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "GameEnginesFall22/glfw"]
+	path = GameEnginesFall22/glfw
+	url = https://github.com/glfw/glfw.git
